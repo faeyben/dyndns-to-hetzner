@@ -1,0 +1,5 @@
+**/instance
+**/venv
+**/.venv
+**/__pycache__
+**/.git
