@@ -23,7 +23,7 @@ requires-python = ">3.9"
 packages = ["dyndns_to_hetzner"]
 
 [project.urls]
-Homepage = "https://github.com/faeyben/dns-to-hetzner"
+Homepage = "https://github.com/faeyben/dyndns-to-hetzner"
 
 [build-system]
 requires      = ["setuptools>=80.9.0", "wheel"]
