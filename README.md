@@ -34,7 +34,7 @@ There is no official image available via a repository, the provided docker-compo
 You will need to clone the repository due to this.
 
 ```
-https://github.com/faeyben/dyndns-to-hetzner.git
+git clone https://github.com/faeyben/dyndns-to-hetzner.git
 cd dyndns-to-hetzner/docker
 cp -a ../config.py.example config.py
 ```
